@@ -37,23 +37,23 @@ THEN I can save my initials and score
 
 ## The following images demonstrates the application functionality:
 
-Start Page
+### Start Page
 
 ![code quiz](https://github.com/pramukam/04-Web-APIs-Code-Quiz/blob/master/ScreenShots/Start.png)
 
-Correct Answer
+### Correct Answer
 
 ![code quiz](https://github.com/pramukam/04-Web-APIs-Code-Quiz/blob/master/ScreenShots/correct.png)
 
-Wrong Answer
+### Wrong Answer
 
 ![code quiz](https://github.com/pramukam/04-Web-APIs-Code-Quiz/blob/master/ScreenShots/wrong.png)
 
-Enter User Info
+### Enter User Info
 
 ![code quiz](https://github.com/pramukam/04-Web-APIs-Code-Quiz/blob/master/ScreenShots/initials.png)
 
-Highscore
+### Highscore
 
 ![code quiz](https://github.com/pramukam/04-Web-APIs-Code-Quiz/blob/master/ScreenShots/highscore.png)
 
