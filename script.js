@@ -108,7 +108,7 @@ qlist.addEventListener("click", function (event) {
       reults.setAttribute("class", "feedback");
       setTimeout(function () {
         reults.setAttribute("class", "feedback hide");
-      }, 10000);
+      }, 1000);
 
     }
     nextQuestion++
