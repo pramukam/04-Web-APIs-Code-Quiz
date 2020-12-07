@@ -21,7 +21,7 @@ WHEN the game is over
 THEN I can save my initials and score
 ```
 
-The following animation demonstrates the application functionality:
+The following images demonstrates the application functionality:
 
 Start Page
 
